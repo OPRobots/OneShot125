@@ -12,7 +12,7 @@
 /**
  * @brief 
  * Configura el TIM4 para dar una salida PWM de 4kHz, 
- * de forma que el 100% del pulso sean 250us y el 0% sean 125us
+ * de forma que el 100% del pulso sean 250us y el 50% sean 125us
  * 
  * En este caso se usa solo el CH4 porque es el pin donde se ha conectado la señal del ESC
  * 
